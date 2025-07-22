@@ -1,0 +1,54 @@
+# General
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.idea/
+.vscode/
+
+# Build outputs
+build/
+dist/
+out/
+
+# C / C++
+*.o
+*.out
+*.exe
+
+# C#
+bin/
+obj/
+*.sln
+
+# Java
+*.class
+*.jar
+*.war
+hs_err_pid*
+.project
+.classpath
+.settings/
+
+# Node.js / TypeScript
+node_modules/
+npm-debug.log*
+yarn-error.log*
+*.js.map
+package-lock.json
+package.json
+
+# Go
+go/main.out
+
+# Rust
+target/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+.venv/
+env/
+.env
